@@ -1,0 +1,138 @@
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\appsettings.Development.json
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\appsettings.json
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Etiqa_Assessment_REST API.exe
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Etiqa_Assessment_REST API.deps.json
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Etiqa_Assessment_REST API.runtimeconfig.json
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Etiqa_Assessment_REST API.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Etiqa_Assessment_REST API.pdb
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Azure.Core.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Azure.Identity.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Humanizer.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.Identity.Client.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Mono.TextTemplating.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\System.CodeDom.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\System.Composition.AttributedModel.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\System.Composition.Convention.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\System.Composition.Hosting.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\System.Composition.Runtime.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\System.Composition.TypedParts.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\System.Drawing.Common.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\System.Memory.Data.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\System.Runtime.Caching.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\System.Security.Permissions.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\System.Windows.Extensions.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\obj\Release\net8.0\Etiqa_Assessment_REST API.csproj.AssemblyReference.cache
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\obj\Release\net8.0\Etiqa_Assessment_REST API.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\obj\Release\net8.0\Etiqa_Assessment_REST API.AssemblyInfoInputs.cache
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\obj\Release\net8.0\Etiqa_Assessment_REST API.AssemblyInfo.cs
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\obj\Release\net8.0\Etiqa_Assessment_REST API.csproj.CoreCompileInputs.cache
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\obj\Release\net8.0\Etiqa_Assessment_REST API.MvcApplicationPartsAssemblyInfo.cs
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\obj\Release\net8.0\Etiqa_Assessment_REST API.MvcApplicationPartsAssemblyInfo.cache
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\obj\Release\net8.0\Etiqa_Assessment_REST API.sourcelink.json
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\obj\Release\net8.0\staticwebassets.build.json
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\obj\Release\net8.0\staticwebassets.development.json
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\obj\Release\net8.0\staticwebassets\msbuild.Etiqa_Assessment_REST API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\obj\Release\net8.0\staticwebassets\msbuild.build.Etiqa_Assessment_REST API.props
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.Etiqa_Assessment_REST API.props
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.Etiqa_Assessment_REST API.props
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\obj\Release\net8.0\staticwebassets.pack.json
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\obj\Release\net8.0\scopedcss\bundle\Etiqa_Assessment_REST API.styles.css
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\obj\Release\net8.0\Etiqa_As.C6653153.Up2Date
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\obj\Release\net8.0\Etiqa_Assessment_REST API.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\obj\Release\net8.0\refint\Etiqa_Assessment_REST API.dll
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\obj\Release\net8.0\Etiqa_Assessment_REST API.pdb
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\obj\Release\net8.0\Etiqa_Assessment_REST API.genruntimeconfig.cache
+D:\DOT NET CORE Projects\Etiqa_Assessment_REST API\Etiqa_Assessment_REST API\obj\Release\net8.0\ref\Etiqa_Assessment_REST API.dll

@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOT NET CORE Projects\\Etiqa_Assessment_REST API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{398C40CD-61A4-4CEF-AF89-51E4D9084F9E}|WebApi_NUnitTesting\\WebApi_NUnitTesting.csproj|d:\\dot net core projects\\etiqa_assessment_rest api\\webapi_nunittesting\\userrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398C40CD-61A4-4CEF-AF89-51E4D9084F9E}|WebApi_NUnitTesting\\WebApi_NUnitTesting.csproj|solutionrelative:webapi_nunittesting\\userrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788B8DC2-1E07-4516-8618-66C955BDAED3}|Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API.csproj|d:\\dot net core projects\\etiqa_assessment_rest api\\etiqa_assessment_rest api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{788B8DC2-1E07-4516-8618-66C955BDAED3}|Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API.csproj|solutionrelative:etiqa_assessment_rest api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788B8DC2-1E07-4516-8618-66C955BDAED3}|Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API.csproj|d:\\dot net core projects\\etiqa_assessment_rest api\\etiqa_assessment_rest api\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{788B8DC2-1E07-4516-8618-66C955BDAED3}|Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API.csproj|solutionrelative:etiqa_assessment_rest api\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788B8DC2-1E07-4516-8618-66C955BDAED3}|Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API.csproj|d:\\dot net core projects\\etiqa_assessment_rest api\\etiqa_assessment_rest api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{788B8DC2-1E07-4516-8618-66C955BDAED3}|Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API.csproj|solutionrelative:etiqa_assessment_rest api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788B8DC2-1E07-4516-8618-66C955BDAED3}|Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API.csproj|d:\\dot net core projects\\etiqa_assessment_rest api\\etiqa_assessment_rest api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{788B8DC2-1E07-4516-8618-66C955BDAED3}|Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API.csproj|solutionrelative:etiqa_assessment_rest api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788B8DC2-1E07-4516-8618-66C955BDAED3}|Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API.csproj|d:\\dot net core projects\\etiqa_assessment_rest api\\etiqa_assessment_rest api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{788B8DC2-1E07-4516-8618-66C955BDAED3}|Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API.csproj|solutionrelative:etiqa_assessment_rest api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788B8DC2-1E07-4516-8618-66C955BDAED3}|Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API.csproj|d:\\dot net core projects\\etiqa_assessment_rest api\\etiqa_assessment_rest api\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{788B8DC2-1E07-4516-8618-66C955BDAED3}|Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API.csproj|solutionrelative:etiqa_assessment_rest api\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788B8DC2-1E07-4516-8618-66C955BDAED3}|Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API.csproj|d:\\dot net core projects\\etiqa_assessment_rest api\\etiqa_assessment_rest api\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{788B8DC2-1E07-4516-8618-66C955BDAED3}|Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API.csproj|solutionrelative:etiqa_assessment_rest api\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepositoryTest.cs",
+              "DocumentMoniker": "D:\\DOT NET CORE Projects\\Etiqa_Assessment_REST API\\WebApi_NUnitTesting\\UserRepositoryTest.cs",
+              "RelativeDocumentMoniker": "WebApi_NUnitTesting\\UserRepositoryTest.cs",
+              "ToolTip": "D:\\DOT NET CORE Projects\\Etiqa_Assessment_REST API\\WebApi_NUnitTesting\\UserRepositoryTest.cs",
+              "RelativeToolTip": "WebApi_NUnitTesting\\UserRepositoryTest.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwE0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T04:07:35.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\DOT NET CORE Projects\\Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Etiqa_Assessment_REST API\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\DOT NET CORE Projects\\Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Etiqa_Assessment_REST API\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwDAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:38:37.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DOT NET CORE Projects\\Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API\\appsettings.json",
+              "RelativeDocumentMoniker": "Etiqa_Assessment_REST API\\appsettings.json",
+              "ToolTip": "D:\\DOT NET CORE Projects\\Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API\\appsettings.json",
+              "RelativeToolTip": "Etiqa_Assessment_REST API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T13:47:16.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DOT NET CORE Projects\\Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Etiqa_Assessment_REST API\\Models\\User.cs",
+              "ToolTip": "D:\\DOT NET CORE Projects\\Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API\\Models\\User.cs",
+              "RelativeToolTip": "Etiqa_Assessment_REST API\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T04:32:28.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\DOT NET CORE Projects\\Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Etiqa_Assessment_REST API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\DOT NET CORE Projects\\Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Etiqa_Assessment_REST API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwEsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:48:25.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\DOT NET CORE Projects\\Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Etiqa_Assessment_REST API\\Models\\ApiResponse.cs",
+              "ToolTip": "D:\\DOT NET CORE Projects\\Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "Etiqa_Assessment_REST API\\Models\\ApiResponse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:55:22.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOT NET CORE Projects\\Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API\\Program.cs",
+              "RelativeDocumentMoniker": "Etiqa_Assessment_REST API\\Program.cs",
+              "ToolTip": "D:\\DOT NET CORE Projects\\Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API\\Program.cs",
+              "RelativeToolTip": "Etiqa_Assessment_REST API\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwvzMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:26:51.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\DOT NET CORE Projects\\Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Etiqa_Assessment_REST API\\Repository\\IUserRepository.cs",
+              "ToolTip": "D:\\DOT NET CORE Projects\\Etiqa_Assessment_REST API\\Etiqa_Assessment_REST API\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Etiqa_Assessment_REST API\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:53:51.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
