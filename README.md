@@ -11,5 +11,4 @@ Created ApiResponse class to show the return result from the endpoint call
 Implemented Pagination using PaginatedList class to handle the pagination logic. 
 Extensively used Error Handling(Try-Catch).
 Implemented Logging to log the appropriate error
-Created Test Project, Testing Strategy.
 Since I don't have any hosting environment like AWS, Heroku. But I know how to deploy in IIS server.
